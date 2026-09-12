@@ -19,11 +19,11 @@ def calculate_grade(average):
     """Return a letter grade based on an average score."""
     if average >= 90:
         return "A"
-    if average >= 80:
+    elif average >= 80:
         return "B"
-    if average >= 70:
+    elif average >= 70:
         return "C"
-    if average >= 60:
+    elif average >= 60:
         return "D"
     return "F"
 
