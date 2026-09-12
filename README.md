@@ -1,12 +1,10 @@
-#NICKIE MONTAGUE
-#CIS261 Vibe_Coding
-#WEEK10
+# NICKIE MONTAGUE - CIS261 Vibe Coding - WEEK 10
 
-#Student Grade Calculator
+# Student Grade Calculator
 
 This Python program is a student grade calculator created for CIS261. It uses a list of dictionaries to store student records.
 
-#Features
+## Features
 - Adds student names and ID numbers
 - Records three test scores
 - Calculates each student's average
@@ -14,8 +12,8 @@ This Python program is a student grade calculator created for CIS261. It uses a 
 - Saves student grade information to a text file
 - Displays stored student records
 
-#Course
+## Course
 CIS261 - Python Programming
 
-#Author
+## Author
 Nickie Montague
